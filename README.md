@@ -1,4 +1,4 @@
-# Workflow Builder
+# DevFlow
 
 A modern, interactive workflow builder application built with React. This tool allows users to create, visualize, and manage complex workflows with a node-based interface.
 
